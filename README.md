@@ -1,7 +1,7 @@
 # Shuffle
 This is implementation of the Fisher-Yates shuffle algorithm in JavaScript. It's puts all items of given array in random order.
 
-### Installation:
+### Installation
 
 ```
 npm install fisher-yates-shuffle
