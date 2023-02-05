@@ -1,0 +1,29 @@
+{
+  "name": "fisher-yates-shuffle",
+  "version": "1.0.0",
+  "description": "Implementation of Fisher-Yates shuffle algorithm in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IpyZ/Fisher-Yates-shuffle.git"
+  },
+  "keywords": [
+    "fisher",
+    "yates",
+    "shuffle",
+    "array",
+    "table",
+    "list",
+    "random",
+    "randomize"
+  ],
+  "author": "Filip Śliwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IpyZ/Fisher-Yates-shuffle/issues"
+  },
+  "homepage": "https://github.com/IpyZ/Fisher-Yates-shuffle#readme"
+}
