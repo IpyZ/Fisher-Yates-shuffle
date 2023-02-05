@@ -1,5 +1,5 @@
 {
-  "name": "fisher-yates-shuffle",
+  "name": "fisher-yates-shuffle-js",
   "version": "1.0.0",
   "description": "Implementation of Fisher-Yates shuffle algorithm in JavaScript",
   "main": "index.js",
