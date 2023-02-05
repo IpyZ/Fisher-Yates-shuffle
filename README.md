@@ -4,12 +4,12 @@ This is implementation of the Fisher-Yates shuffle algorithm in JavaScript. It's
 ### Installation
 
 ```
-npm install fisher-yates-shuffle
+npm install fisher-yates-shuffle-js
 ```
 
 ### Usage
 ```js
-const shuffle = require ('fisher-yates-shuffle');
+const shuffle = require ('fisher-yates-shuffle-js');
 
 var exampleArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
